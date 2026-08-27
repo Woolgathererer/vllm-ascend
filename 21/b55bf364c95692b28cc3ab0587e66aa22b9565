@@ -1,0 +1,33 @@
+vllm_ascend/attention/dsa_v1.py
+  s_d507c03af30a77::t_acbd4f86d3e190 146-148,152-155,159-162,166-167,171-172,176,178-179
+  s_d507c03af30a77::t_2d83f0632bbd7d 87-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "21b55bf364c95692b28cc3ab0587e66aa22b9565",
+  "prompts": {},
+  "sessions": {
+    "s_d507c03af30a77": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a89603495bb6146fc92178f",
+        "model": "glm-5.3"
+      },
+      "human_author": "waterrulerule <waterrulerule@gmail.com>",
+      "custom_attributes": {
+        "client_type": "ide",
+        "external_session_id": "6a89603495bb6146fc92178f",
+        "tool_id": "SearchReplace",
+        "edit_kind": "file_edit",
+        "source_scene": "unknown",
+        "session_id": "6a89603495bb6146fc92178f",
+        "tool_type": "agent",
+        "operation_id": "6a8ffdd19f936b41dfd56ae5",
+        "dedupe_key": "6a89603495bb6146fc92178f:6a8ffdd19f936b41dfd56ae5:afterEdit:dab46968",
+        "tool_use_id": "6a8ffdd19f936b41dfd56ae5",
+        "runtime_client": "trae-tob-git-ai"
+      }
+    }
+  }
+}
