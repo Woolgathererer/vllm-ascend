@@ -1,0 +1,32 @@
+vllm_ascend/attention/dsa_v1.py
+  s_d507c03af30a77::t_56e7e13af63d0c 148-150
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "224585cb754c667da1f38ae6554a3b1206589325",
+  "prompts": {},
+  "sessions": {
+    "s_d507c03af30a77": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a89603495bb6146fc92178f",
+        "model": "glm-5.3__dev"
+      },
+      "human_author": "waterrulerule <waterrulerule@gmail.com>",
+      "custom_attributes": {
+        "session_id": "6a89603495bb6146fc92178f",
+        "tool_use_id": "6a9020f39f936b41dfd56e21",
+        "dedupe_key": "6a89603495bb6146fc92178f:6a9020f39f936b41dfd56e21:afterEdit:dab46968",
+        "tool_id": "Edit",
+        "tool_type": "agent",
+        "runtime_client": "trae-tob-git-ai",
+        "edit_kind": "file_edit",
+        "operation_id": "6a9020f39f936b41dfd56e21",
+        "source_scene": "unknown",
+        "client_type": "ide",
+        "external_session_id": "6a89603495bb6146fc92178f"
+      }
+    }
+  }
+}
